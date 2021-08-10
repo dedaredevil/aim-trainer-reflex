@@ -1,9 +1,9 @@
-# aim-trainer-reflex
-Reflex aim trainer to improve your flick shots in first person shooters. 
+# Aim Trainer REFLEX 
+:computer_mouse: Boost your skills in FPS games with this aim trainer and learn to flick-shot like a pro!
 
-Instructions:
-Start with your mouse over the red rectangle. When the Orange Circle appears, try and click on it. If you are successful it will flash red. If you are unsuccessful it will show a small red hit marker where you clicked instead. After each flick return your mouse over the red rectangle in the center. 
+Steps:
+1) Start with mouse over the center rectangle
+2) When an orange ciricle appears, try and click it
+3) Repeat...
 
-aoe variable will change the area in which your mouse will affect the target. Currently set at an additional 20 pixel buffer around the targets. 
-targetTimer variable will change the time the targets will remain. It is set by tenths of a second. 
-hitMarkerTimer variable will change the time until the hit markets fade. It is set by tenths of a second. 
+The circle will turn red if you make a successful shot; otherwise, a red marker will appear where you missed.
